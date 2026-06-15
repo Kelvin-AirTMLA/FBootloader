@@ -1,0 +1,30 @@
+# Build output
+FBL/build/
+
+# Compiled objects and binaries
+*.o
+*.elf
+*.bin
+*.img
+*.iso
+
+# Linker / debug artefacts
+*.map
+*.lst
+*.sym
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs and temp files
+*.log
+*.tmp
